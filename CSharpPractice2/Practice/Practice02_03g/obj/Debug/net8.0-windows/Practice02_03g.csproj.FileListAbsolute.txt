@@ -1,0 +1,16 @@
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_03g\bin\Debug\net8.0-windows\Practice02_03g.exe
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_03g\bin\Debug\net8.0-windows\Practice02_03g.deps.json
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_03g\bin\Debug\net8.0-windows\Practice02_03g.runtimeconfig.json
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_03g\bin\Debug\net8.0-windows\Practice02_03g.dll
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_03g\bin\Debug\net8.0-windows\Practice02_03g.pdb
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_03g\obj\Debug\net8.0-windows\Practice02_03g.frmChangeCalculator.resources
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_03g\obj\Debug\net8.0-windows\Practice02_03g.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_03g\obj\Debug\net8.0-windows\Practice02_03g.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_03g\obj\Debug\net8.0-windows\Practice02_03g.AssemblyInfoInputs.cache
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_03g\obj\Debug\net8.0-windows\Practice02_03g.AssemblyInfo.cs
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_03g\obj\Debug\net8.0-windows\Practice02_03g.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_03g\obj\Debug\net8.0-windows\Practice02_03g.dll
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_03g\obj\Debug\net8.0-windows\refint\Practice02_03g.dll
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_03g\obj\Debug\net8.0-windows\Practice02_03g.pdb
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_03g\obj\Debug\net8.0-windows\Practice02_03g.genruntimeconfig.cache
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_03g\obj\Debug\net8.0-windows\ref\Practice02_03g.dll

@@ -1,0 +1,10 @@
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice01_04\bin\Debug\Practice01_04.exe.config
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice01_04\bin\Debug\Practice01_04.exe
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice01_04\bin\Debug\Practice01_04.pdb
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice01_04\obj\Debug\Practice01_04.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice01_04\obj\Debug\Practice01_04.frmIsLeapYear.resources
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice01_04\obj\Debug\Practice01_04.Properties.Resources.resources
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice01_04\obj\Debug\Practice01_04.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice01_04\obj\Debug\Practice01_04.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice01_04\obj\Debug\Practice01_04.exe
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice01_04\obj\Debug\Practice01_04.pdb

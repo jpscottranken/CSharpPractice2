@@ -1,0 +1,14 @@
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01c\bin\Debug\net8.0\Practice02_01c.exe
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01c\bin\Debug\net8.0\Practice02_01c.deps.json
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01c\bin\Debug\net8.0\Practice02_01c.runtimeconfig.json
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01c\bin\Debug\net8.0\Practice02_01c.dll
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01c\bin\Debug\net8.0\Practice02_01c.pdb
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01c\obj\Debug\net8.0\Practice02_01c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01c\obj\Debug\net8.0\Practice02_01c.AssemblyInfoInputs.cache
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01c\obj\Debug\net8.0\Practice02_01c.AssemblyInfo.cs
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01c\obj\Debug\net8.0\Practice02_01c.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01c\obj\Debug\net8.0\Practice02_01c.dll
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01c\obj\Debug\net8.0\refint\Practice02_01c.dll
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01c\obj\Debug\net8.0\Practice02_01c.pdb
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01c\obj\Debug\net8.0\Practice02_01c.genruntimeconfig.cache
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01c\obj\Debug\net8.0\ref\Practice02_01c.dll

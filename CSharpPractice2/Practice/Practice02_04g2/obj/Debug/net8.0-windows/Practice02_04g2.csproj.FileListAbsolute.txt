@@ -1,0 +1,16 @@
+C:\Users\jpscott\Desktop\CSharpPractice\CSharpPractice-master\Practice\Practice02_04g2\bin\Debug\net8.0-windows\Practice02_04g2.exe
+C:\Users\jpscott\Desktop\CSharpPractice\CSharpPractice-master\Practice\Practice02_04g2\bin\Debug\net8.0-windows\Practice02_04g2.deps.json
+C:\Users\jpscott\Desktop\CSharpPractice\CSharpPractice-master\Practice\Practice02_04g2\bin\Debug\net8.0-windows\Practice02_04g2.runtimeconfig.json
+C:\Users\jpscott\Desktop\CSharpPractice\CSharpPractice-master\Practice\Practice02_04g2\bin\Debug\net8.0-windows\Practice02_04g2.dll
+C:\Users\jpscott\Desktop\CSharpPractice\CSharpPractice-master\Practice\Practice02_04g2\bin\Debug\net8.0-windows\Practice02_04g2.pdb
+C:\Users\jpscott\Desktop\CSharpPractice\CSharpPractice-master\Practice\Practice02_04g2\obj\Debug\net8.0-windows\Practice02_04g2.frmIncomeTaxCalculator.resources
+C:\Users\jpscott\Desktop\CSharpPractice\CSharpPractice-master\Practice\Practice02_04g2\obj\Debug\net8.0-windows\Practice02_04g2.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\CSharpPractice\CSharpPractice-master\Practice\Practice02_04g2\obj\Debug\net8.0-windows\Practice02_04g2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpscott\Desktop\CSharpPractice\CSharpPractice-master\Practice\Practice02_04g2\obj\Debug\net8.0-windows\Practice02_04g2.AssemblyInfoInputs.cache
+C:\Users\jpscott\Desktop\CSharpPractice\CSharpPractice-master\Practice\Practice02_04g2\obj\Debug\net8.0-windows\Practice02_04g2.AssemblyInfo.cs
+C:\Users\jpscott\Desktop\CSharpPractice\CSharpPractice-master\Practice\Practice02_04g2\obj\Debug\net8.0-windows\Practice02_04g2.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\CSharpPractice\CSharpPractice-master\Practice\Practice02_04g2\obj\Debug\net8.0-windows\Practice02_04g2.dll
+C:\Users\jpscott\Desktop\CSharpPractice\CSharpPractice-master\Practice\Practice02_04g2\obj\Debug\net8.0-windows\refint\Practice02_04g2.dll
+C:\Users\jpscott\Desktop\CSharpPractice\CSharpPractice-master\Practice\Practice02_04g2\obj\Debug\net8.0-windows\Practice02_04g2.pdb
+C:\Users\jpscott\Desktop\CSharpPractice\CSharpPractice-master\Practice\Practice02_04g2\obj\Debug\net8.0-windows\Practice02_04g2.genruntimeconfig.cache
+C:\Users\jpscott\Desktop\CSharpPractice\CSharpPractice-master\Practice\Practice02_04g2\obj\Debug\net8.0-windows\ref\Practice02_04g2.dll

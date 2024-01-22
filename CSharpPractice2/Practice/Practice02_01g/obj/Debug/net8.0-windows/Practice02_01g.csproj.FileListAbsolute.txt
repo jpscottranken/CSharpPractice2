@@ -1,0 +1,16 @@
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01g\bin\Debug\net8.0-windows\Practice02_01g.exe
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01g\bin\Debug\net8.0-windows\Practice02_01g.deps.json
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01g\bin\Debug\net8.0-windows\Practice02_01g.runtimeconfig.json
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01g\bin\Debug\net8.0-windows\Practice02_01g.dll
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01g\bin\Debug\net8.0-windows\Practice02_01g.pdb
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01g\obj\Debug\net8.0-windows\Practice02_01g.frmScoreCalculator.resources
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01g\obj\Debug\net8.0-windows\Practice02_01g.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01g\obj\Debug\net8.0-windows\Practice02_01g.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01g\obj\Debug\net8.0-windows\Practice02_01g.AssemblyInfoInputs.cache
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01g\obj\Debug\net8.0-windows\Practice02_01g.AssemblyInfo.cs
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01g\obj\Debug\net8.0-windows\Practice02_01g.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01g\obj\Debug\net8.0-windows\Practice02_01g.dll
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01g\obj\Debug\net8.0-windows\refint\Practice02_01g.dll
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01g\obj\Debug\net8.0-windows\Practice02_01g.pdb
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01g\obj\Debug\net8.0-windows\Practice02_01g.genruntimeconfig.cache
+C:\Users\jpscott\Desktop\C#Practice\Practice\Practice02_01g\obj\Debug\net8.0-windows\ref\Practice02_01g.dll
