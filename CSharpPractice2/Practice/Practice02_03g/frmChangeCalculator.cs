@@ -57,7 +57,7 @@ namespace Practice02_03g
         private void InputNumber()
         {
             bool result;
-            string numberStr = txtChangeDue.Text;
+            string numberStr = txtChangeDue.Text.Trim();
 
             //  Check for no input
             if (numberStr == "")

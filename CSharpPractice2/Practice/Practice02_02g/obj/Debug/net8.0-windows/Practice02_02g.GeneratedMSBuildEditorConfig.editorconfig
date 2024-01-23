@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Practice02_02g
-build_property.ProjectDir = C:\Users\jpscott\Desktop\CSharpPractice\CSharpPractice-master\Practice\Practice02_02g\
+build_property.ProjectDir = C:\Users\jpscott\Desktop\CSharpPractice2\CSharpPractice2\Practice\Practice02_02g\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

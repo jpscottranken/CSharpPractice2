@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jpscott\\Desktop\\CSharpPractice\\CSharpPractice-master\\Practice\\Practice02_01g\\Practice02_01g.csproj",
+      "projectUniqueName": "C:\\Users\\jpscott\\Desktop\\CSharpPractice2\\CSharpPractice2\\Practice\\Practice02_01g\\Practice02_01g.csproj",
       "projectName": "Practice02_01g",
-      "projectPath": "C:\\Users\\jpscott\\Desktop\\CSharpPractice\\CSharpPractice-master\\Practice\\Practice02_01g\\Practice02_01g.csproj",
+      "projectPath": "C:\\Users\\jpscott\\Desktop\\CSharpPractice2\\CSharpPractice2\\Practice\\Practice02_01g\\Practice02_01g.csproj",
       "packagesPath": "C:\\Users\\jpscott\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jpscott\\Desktop\\CSharpPractice\\CSharpPractice-master\\Practice\\Practice02_01g\\obj\\",
+      "outputPath": "C:\\Users\\jpscott\\Desktop\\CSharpPractice2\\CSharpPractice2\\Practice\\Practice02_01g\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jpscott\\AppData\\Roaming\\NuGet\\NuGet.Config",

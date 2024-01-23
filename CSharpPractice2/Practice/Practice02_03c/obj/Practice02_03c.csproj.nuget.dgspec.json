@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jpscott\\Desktop\\CSharpPractice\\CSharpPractice-master\\Practice\\Practice02_03c\\Practice02_03c.csproj": {}
+    "C:\\Users\\jpscott\\Desktop\\CSharpPractice2\\CSharpPractice2\\Practice\\Practice02_03c\\Practice02_03c.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jpscott\\Desktop\\CSharpPractice\\CSharpPractice-master\\Practice\\Practice02_03c\\Practice02_03c.csproj": {
+    "C:\\Users\\jpscott\\Desktop\\CSharpPractice2\\CSharpPractice2\\Practice\\Practice02_03c\\Practice02_03c.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jpscott\\Desktop\\CSharpPractice\\CSharpPractice-master\\Practice\\Practice02_03c\\Practice02_03c.csproj",
+        "projectUniqueName": "C:\\Users\\jpscott\\Desktop\\CSharpPractice2\\CSharpPractice2\\Practice\\Practice02_03c\\Practice02_03c.csproj",
         "projectName": "Practice02_03c",
-        "projectPath": "C:\\Users\\jpscott\\Desktop\\CSharpPractice\\CSharpPractice-master\\Practice\\Practice02_03c\\Practice02_03c.csproj",
+        "projectPath": "C:\\Users\\jpscott\\Desktop\\CSharpPractice2\\CSharpPractice2\\Practice\\Practice02_03c\\Practice02_03c.csproj",
         "packagesPath": "C:\\Users\\jpscott\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jpscott\\Desktop\\CSharpPractice\\CSharpPractice-master\\Practice\\Practice02_03c\\obj\\",
+        "outputPath": "C:\\Users\\jpscott\\Desktop\\CSharpPractice2\\CSharpPractice2\\Practice\\Practice02_03c\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jpscott\\AppData\\Roaming\\NuGet\\NuGet.Config",

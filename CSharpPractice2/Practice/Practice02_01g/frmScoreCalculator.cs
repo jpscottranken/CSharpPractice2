@@ -67,11 +67,11 @@ namespace Practice02_01g
 
         private void AttemptToAddTestScore()
         {
-            string scoreStr = txtScore.Text;
+            string scoreStr = txtScore.Text.Trim();
             bool result;
 
             //  Check for empty test score inputted
-            if (scoreStr.Trim() == "")
+            if (scoreStr == "")
             {
                 ShowErrorMessage("\nScore Cannot Be Empty. Please try again.",
                                  "SCORE TEXTBOX EMPTY");
